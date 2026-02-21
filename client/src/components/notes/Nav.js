@@ -39,7 +39,7 @@ export default function Nav({
           />
           {(searchQuery || (selectedTags && selectedTags.length)) && (
             <button type="button" className="search-clear" onClick={clearFilters} title="Clear search & filters">
-              ✕
+              X
             </button>
           )}
         </div>
