@@ -177,6 +177,7 @@ label{
   font-weight: 800;
 }
 input, textarea{
+  margin-top: 6px;
   width: 100%;
   border-radius: 12px;
   border: 2px solid rgb(234 255 253 / 89%);
